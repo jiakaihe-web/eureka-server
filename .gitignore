@@ -1,0 +1,5 @@
+# Project exclude paths
+/eureka-clent02/target/
+/eureka-client01/target/
+/eureka-server1/target/
+/eureka-server2/target/
